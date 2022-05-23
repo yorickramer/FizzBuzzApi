@@ -12,5 +12,4 @@ structure.
 
 #### API project can be found in the FizzBuzz folder
 #### API tests can be found in the FizzBuzzApiTest folder
-
-### Documentation is the FizzBuzzAPIDocumentation.pdf
+#### Documentation is the FizzBuzzAPIDocumentation.pdf
