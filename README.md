@@ -10,6 +10,8 @@ structure.
 - When you make design decisions, please document your reasoning behind your choice.
 - Please document how to build, test, and run the application.
 
-API project can be found in the FizzBuzz folder
-API tests can be found in the FizzBuzzApiTest folder
-Documentation is the FizzBuzzAPIDocumentation.pdf
+### API project can be found in the FizzBuzz folder
+
+### API tests can be found in the FizzBuzzApiTest folder
+
+### Documentation is the FizzBuzzAPIDocumentation.pdf
